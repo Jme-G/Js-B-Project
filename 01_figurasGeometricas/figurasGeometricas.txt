@@ -1,0 +1,43 @@
+Cuadrado
+Rectangulo
+Triangulo
+Circulo
+
+-Perimetro de un Cuadrado
+
+Es la multiplicacion del valor de uno de sus lados por 4.
+
+Lado * 4
+
+
+-Area del Cuadrado
+
+Es la multiplicacion de uno de sus lados por uno de sus lados.
+
+Lado * Lado
+
+-Perimetro del Triangulo
+
+Es la suma de cada uno de sus lados
+
+Lado + Lado + Lado
+
+-Area del Triangulo
+
+(base * altura) / 2
+
+-Perimetro del circulo (circunferencia)
+
+Radio
+
+Es la distancia del centro del circulo hasta un borde del mismo recorrido por una recta.
+
+Perimetro 
+
+es la distancia de un extremo del circulo a otro recorrido por una recta
+
+Circunferencia = Diametro * numeroPI  3.41415
+
+Area = radio^2 * PI
+
+
